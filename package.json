@@ -1,0 +1,28 @@
+{
+  "name": "@redeemerbc/serialize",
+  "version": "1.0.0",
+  "description": "Simple serialization of ES6 promise arrays",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.0.0",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jest": "^22.2.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/redeemer-baptist-church/npm-serialize.git"
+  },
+  "author": "Tyler Distad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redeemer-baptist-church/npm-serialize/issues"
+  },
+  "homepage": "https://github.com/redeemer-baptist-church/npm-serialize#readme"
+}
